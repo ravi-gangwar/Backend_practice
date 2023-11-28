@@ -1,0 +1,11 @@
+1) => what is nodemon --> with help of nodemon we can auto refresh the server when we will do any changes in our server
+
+
+2) => how to use?
+    steps..
+    1- go pakedge.json 
+    2- in scripts add 
+        "start" : "nodemon ./server.js",
+
+    3 - now start the server 
+        npm start

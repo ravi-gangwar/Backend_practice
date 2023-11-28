@@ -1,0 +1,8 @@
+we use app.post() when we create something 
+
+or 
+
+when we access something and also pass some secure data
+
+app = express or express.Router()
+app.use("route", (controller));
